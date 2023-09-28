@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<https://app.circleci.com/pipelines/github/vunguyenphanhoang/project-ml-microservice-kubernetes/1/workflows/81a8ca87-0798-4b84-9b55-9f68148ea19e>)
 
 ## Project Overview
 
