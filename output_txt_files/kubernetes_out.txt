@@ -1,27 +1,9 @@
-Docker ID and Image: vunguyenphanhoang/project4
-Authenticating with existing credentials...
-Login Succeeded
+NAME       READY   STATUS    RESTARTS   AGE
+project4   1/1     Running   0          95m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
 
-Logging in with your password grants your terminal complete access to your account. 
-For better security, log in with a limited-privilege personal access token. Learn more at https://docs.docker.com/go/access-tokens/
-Using default tag: latest
-The push refers to repository [docker.io/vunguyenphanhoang/project4]
-3fbc49ecb139: Layer already exists 
-5da5b0b60866: Layer already exists 
-8feb1811ea0f: Layer already exists 
-dc5ae4f77997: Layer already exists 
-799a7872c8c7: Layer already exists 
-715450468940: Layer already exists 
-c9d608035aef: Layer already exists 
-bb9c02680a15: Layer already exists 
-a637c551a0da: Layer already exists 
-2c8d31157b81: Layer already exists 
-7b76d801397d: Layer already exists 
-f32868cde90b: Layer already exists 
-0db06dff9d9a: Layer already exists 
-latest: digest: sha256:1407474779c6a2b637fd605355ebdc58e322fce04a28a0758550b471b5d53251 size: 3056
-
-Port: 8000
+./run_kubernetes.shPort: 8000
 {
   "prediction": [
     20.35373177134412
